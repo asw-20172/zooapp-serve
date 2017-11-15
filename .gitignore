@@ -1,2 +1,4 @@
 *.pyc
 ve_*
+htmlcov
+.coverage
