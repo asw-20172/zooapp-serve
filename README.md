@@ -44,6 +44,13 @@ See also, a [ready-made application](https://github.com/heroku/python-getting-st
 Just update `runtime.txt` to `python-2.7.13` (no trailing spaces or newlines!).
 
 
+## Runing test
+
+	coverage run manage.py test
+	coverage report
+	coverage html
+
+
 ## License: MIT
 
 ## Further Reading
